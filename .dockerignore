@@ -1,0 +1,67 @@
+# Version control
+.git
+.gitignore
+
+# Docker
+docker-compose.yml
+docker-compose.*.yml
+
+# Frontend specific
+frontend/node_modules
+frontend/build
+frontend/dist
+frontend/.cache
+frontend/coverage
+frontend/.env*
+frontend/npm-debug.log
+frontend/yarn-debug.log
+frontend/yarn-error.log
+
+# Backend specific
+backend/__pycache__
+backend/*.py[cod]
+backend/*$py.class
+backend/*.so
+backend/.Python
+backend/env/
+backend/venv/
+backend/.env
+backend/.venv
+backend/ENV/
+backend/env.bak/
+backend/venv.bak/
+backend/htmlcov/
+backend/.tox/
+backend/.coverage
+backend/.coverage.*
+backend/.cache
+backend/nosetests.xml
+backend/coverage.xml
+backend/*.cover
+backend/.hypothesis/
+backend/.pytest_cache/
+backend/db.sqlite3
+backend/db.sqlite3-journal
+backend/media/
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project specific
+bugs_to_fix.log
+new_bugs_to_fix.log
+Questionnaire_logic/
+Project_spec
+
+# Documentation
+README.md
+LICENSE
+*.md 

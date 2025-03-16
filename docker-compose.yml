@@ -1,0 +1,54 @@
+services:
+  # Backend service
+  backend:
+    build:
+      context: .
+      dockerfile: docker/backend.Dockerfile
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    environment:
+      - DEBUG=1
+      - SECRET_KEY=dev_secret_key
+      - DATABASE_URL=postgres://postgres:postgres@db:5432/project_x
+      # Email configuration
+      - EMAIL_HOST_USER=your-gmail-address@gmail.com
+      - EMAIL_HOST_PASSWORD=your-gmail-app-password
+      - DEFAULT_FROM_EMAIL=your-gmail-address@gmail.com
+      - FRONTEND_URL=http://localhost:3000
+    # Using the entrypoint script defined in the Dockerfile
+
+  # Frontend service
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/frontend.Dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+      - CHOKIDAR_USEPOLLING=true
+      - REACT_APP_API_URL=/api
+    depends_on:
+      - backend
+
+  # Database service
+  db:
+    image: postgres:13
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=project_x
+    ports:
+      - "5432:5432"
+
+volumes:
+  postgres_data: 

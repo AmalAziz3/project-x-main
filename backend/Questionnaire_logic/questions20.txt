@@ -1,0 +1,103 @@
+# High School Major Questionnaire - 15 Questions
+
+## 1. Which school subjects do you enjoy the most?
+- Math and problem-solving → Mathematics, Computer Science, Engineering, Physics, Economics, Data Science
+- Science and experiments → Biology, Chemistry, Physics, Environmental Science, Medicine & Health Sciences, Neuroscience
+- Writing and literature → Literature & Languages, Journalism, Communications, History, Philosophy, Law
+- Art, music, or creative expression → Art & Design, Performing Arts, Music, Architecture, Communications, Literature & Languages
+- Social studies and understanding people → Psychology, Social Sciences, History, Political Science, Anthropology, Education
+
+## 2. How do you prefer to solve problems?
+- Logically analyzing information and finding patterns → Computer Science, Mathematics, Physics, Engineering, Data Science, Economics
+- Coming up with creative or innovative solutions → Art & Design, Architecture, Engineering, Business, Communications, Performing Arts
+- Researching thoroughly and testing different approaches → Biology, Chemistry, Environmental Science, Psychology, History, Social Sciences
+- Discussing with others and finding collaborative solutions → Communications, Business, Education, Psychology, Political Science, Social Sciences
+- Applying practical, hands-on approaches → Engineering, Medicine & Health Sciences, Agriculture, Nursing, Art & Design, Performing Arts
+
+## 3. What kind of activities do you enjoy doing in your free time?
+- Building, fixing, or programming things → Engineering, Computer Science, Architecture, Physics, Art & Design, Data Science
+- Reading, writing, or engaging with media → Literature & Languages, Journalism, Communications, Philosophy, History, Political Science
+- Helping or teaching others → Education, Psychology, Nursing, Medicine & Health Sciences, Social Sciences, Communications
+- Exploring nature or conducting experiments → Biology, Environmental Science, Chemistry, Agriculture, Physics, Anthropology
+- Creating art, music, or performing → Art & Design, Music, Performing Arts, Communications, Architecture, Literature & Languages
+
+## 4. Which of these careers sounds most appealing to you?
+- Scientist, researcher, or analyst → Biology, Chemistry, Physics, Environmental Science, Data Science, Psychology
+- Engineer, architect, or developer → Engineering, Computer Science, Architecture, Mathematics, Data Science, Physics
+- Business leader, entrepreneur, or manager → Business, Economics, Communications, Political Science, Law, Data Science
+- Healthcare provider, counselor, or caregiver → Medicine & Health Sciences, Nursing, Psychology, Biology, Social Sciences, Education
+- Artist, writer, designer, or performer → Art & Design, Literature & Languages, Performing Arts, Music, Communications, Architecture
+
+## 5. What impact would you like to make in the world?
+- Advance technology and innovation → Computer Science, Engineering, Physics, Data Science, Mathematics, Architecture
+- Improve health and well-being → Medicine & Health Sciences, Nursing, Psychology, Biology, Chemistry, Neuroscience
+- Promote social justice and equality → Political Science, Law, Social Sciences, Education, Philosophy, Anthropology
+- Create art, culture, or entertainment → Art & Design, Music, Performing Arts, Literature & Languages, Communications, Journalism
+- Protect the environment and natural resources → Environmental Science, Biology, Agriculture, Chemistry, Political Science, Engineering
+
+## 6. How do you prefer to learn new things?
+- Through hands-on experiences and practice → Engineering, Art & Design, Medicine & Health Sciences, Nursing, Agriculture, Performing Arts
+- By analyzing data and finding patterns → Mathematics, Data Science, Physics, Computer Science, Economics, Chemistry
+- Through reading and independent study → Literature & Languages, Philosophy, History, Political Science, Law, Social Sciences
+- By discussing ideas with others → Communications, Education, Business, Psychology, Political Science, Philosophy
+- Through observation and experimentation → Biology, Chemistry, Physics, Environmental Science, Psychology, Anthropology
+
+## 7. Which of these workplace environments appeals to you most?
+- Tech company or research lab → Computer Science, Engineering, Data Science, Biology, Chemistry, Physics
+- Hospital, clinic, or healthcare facility → Medicine & Health Sciences, Nursing, Psychology, Biology, Neuroscience, Social Sciences
+- School, university, or educational setting → Education, Psychology, Mathematics, Literature & Languages, History, Foreign Languages
+- Creative studio, media company, or theater → Art & Design, Communications, Performing Arts, Music, Journalism, Literature & Languages
+- Business office, startup, or corporation → Business, Economics, Communications, Computer Science, Law, Political Science
+
+## 8. Which skills would you most like to develop?
+- Technical and analytical skills → Computer Science, Engineering, Mathematics, Data Science, Physics, Economics
+- Creative and artistic abilities → Art & Design, Music, Performing Arts, Architecture, Literature & Languages, Communications
+- Communication and interpersonal skills → Communications, Business, Education, Psychology, Political Science, Journalism
+- Research and analytical thinking → Biology, Chemistry, Physics, Psychology, History, Social Sciences
+- Leadership and organizational abilities → Business, Political Science, Education, Communications, Law, Social Sciences
+
+## 9. What topics do you find yourself most curious about?
+- How technology and machines work → Computer Science, Engineering, Physics, Data Science, Mathematics, Architecture
+- How living things function and evolve → Biology, Medicine & Health Sciences, Environmental Science, Psychology, Neuroscience, Agriculture
+- How societies and cultures develop → History, Anthropology, Social Sciences, Political Science, Philosophy, Literature & Languages
+- How markets and economies function → Economics, Business, Political Science, Mathematics, Data Science, Agriculture
+- How people think and behave → Psychology, Neuroscience, Social Sciences, Philosophy, Education, Communications
+
+## 10. Which high school project would you most enjoy?
+- Building a robot or coding an app → Computer Science, Engineering, Physics, Data Science, Mathematics, Architecture
+- Conducting a scientific experiment → Biology, Chemistry, Physics, Environmental Science, Psychology, Agriculture
+- Creating a work of art, music, or writing → Art & Design, Music, Performing Arts, Literature & Languages, Communications, Architecture
+- Organizing a community service event → Social Sciences, Education, Communications, Political Science, Business, Psychology
+- Researching and debating a current issue → Political Science, Law, History, Philosophy, Journalism, Communications
+
+## 11. How important is it for your future career to be well-paying?
+- Very important - I want a high-earning career → Medicine & Health Sciences, Computer Science, Engineering, Business, Law, Data Science
+- Somewhat important - balance of pay and passion → Business, Engineering, Computer Science, Communications, Economics, Mathematics
+- Less important - I prioritize doing work I love → Art & Design, Education, Psychology, Social Sciences, Literature & Languages, Performing Arts
+- Not important - I'm focused on making a difference → Social Sciences, Education, Environmental Science, Philosophy, Political Science, Psychology
+
+## 12. How comfortable are you with public speaking and presentations?
+- Very comfortable - I enjoy presenting to groups → Communications, Business, Education, Political Science, Performing Arts, Law
+- Somewhat comfortable - I can do it when needed → Business, Education, Communications, Psychology, History, Journalism
+- Prefer to work behind the scenes → Computer Science, Mathematics, Engineering, Chemistry, Art & Design, Data Science
+- Prefer small group discussions or one-on-one interactions → Psychology, Social Sciences, Education, Medicine & Health Sciences, Nursing, Philosophy
+
+## 13. What aspect of a college major is most important to you?
+- Career opportunities and job prospects → Computer Science, Business, Engineering, Medicine & Health Sciences, Data Science, Nursing
+- Following my passion and interests → Art & Design, Music, Literature & Languages, History, Philosophy, Performing Arts
+- Making a positive impact in society → Medicine & Health Sciences, Education, Environmental Science, Social Sciences, Political Science, Psychology
+- Intellectual challenge and personal growth → Mathematics, Physics, Philosophy, Law, Engineering, Neuroscience
+- Practical skills and hands-on learning → Engineering, Nursing, Art & Design, Agriculture, Computer Science, Architecture
+
+## 14. Do you prefer structured environments or flexibility?
+- Highly structured with clear expectations → Engineering, Medicine & Health Sciences, Law, Mathematics, Chemistry, Nursing
+- Balanced approach with some guidelines → Business, Computer Science, Education, Biology, Psychology, Communications
+- Flexible and open-minded environments → Art & Design, Literature & Languages, Philosophy, Music, Performing Arts, Communications
+- Depends on the specific task or project → Computer Science, Business, Communications, Social Sciences, Data Science, Psychology
+
+## 15. How do you feel about working with numbers and data?
+- Love it - I enjoy mathematical thinking → Mathematics, Physics, Computer Science, Engineering, Data Science, Economics
+- It's fine for some purposes → Business, Psychology, Biology, Chemistry, Environmental Science, Political Science
+- Prefer to work with words and ideas → Literature & Languages, History, Philosophy, Communications, Journalism, Political Science
+- Prefer to work with people directly → Education, Psychology, Nursing, Communications, Business, Social Sciences
+- Prefer to work with visual or physical elements → Art & Design, Architecture, Performing Arts, Engineering, Medicine & Health Sciences, Agriculture
